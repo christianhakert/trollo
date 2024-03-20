@@ -1,7 +1,7 @@
 #!/bin/bash
 
 GLOBAL="--global"
-GLOBAL=""
+# GLOBAL=""
 
 git config $GLOBAL alias.zieh pull
 git config $GLOBAL alias.drueck push
